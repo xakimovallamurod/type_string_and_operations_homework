@@ -37,7 +37,7 @@ Output: "aaaazzzz"
 
 ```Python
 Input:
-Output: "CODESCHOOLUZ"
+Output: "ITMARKAZ"
 
 ```
 
@@ -87,7 +87,7 @@ Output: "python coder"
 
 ```Python
 Input: s1="code" s2="school"
-Output: "code school"
+Output: "it markaz"
 
 ```
 
