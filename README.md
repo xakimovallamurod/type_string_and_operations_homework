@@ -1,4 +1,4 @@
-# Masalalar tavsifi (Tarjima)
+# Masalalar tavsifi 
 
 ## String01
 
