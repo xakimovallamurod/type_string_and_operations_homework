@@ -1,152 +1,152 @@
-# Welcome
-# TYPE STRING and Operations
+# Masalalar tavsifi (Tarjima)
 
-Automated grading of homework assignments and tests
-- fork this repository
-- solve the task
-- commit with proper message
-
-# Problems
 ## String01
 
-  Return an optional string of length eight.
+8 ta belgidan iborat ixtiyoriy satrni qaytaring.
 
-**Example 1:**
+**Misol 1:**
 
 ```Python
 Input:
 Output: "12345678"
-
 ```
 
-**Example 2:**
+**Misol 2:**
 
 ```Python
 Input:
 Output: "aaaazzzz"
-
 ```
 
-**Constraints:**
+---
 
 ## String02
 
-  Return a string consisting only of uppercase letters.
+Faqat bosh harflardan iborat bo'lgan satrni qaytaring.
 
-**Example 1:**
+**Misol 1:**
 
 ```Python
 Input:
 Output: "ITMARKAZ"
-
 ```
 
-**Example 2:**
+**Misol 2:**
 
 ```Python
 Input:
 Output: "PYTHONUZ"
-
 ```
+
+---
+
 ## String03
 
-  "*" Return a string that consists of only this character and is five in length.
+`*` belgidan iborat va uzunligi 5 bo'lgan satrni qaytaring.
 
-**Example 1:**
+**Misol 1:**
 
 ```Python
 Input:
 Output: "*****"
-
 ```
+
+---
+
 ## String04
 
-  Given the string "s". add a double quote on both sides, beginning and end.
+Berilgan `"s"` satrini ikkala tomondan qo'shtirnoq qo'shib qaytaring.
 
-**Example 1:**
+**Misol 1:**
 
 ```Python
 Input:
-Output: "s"
-
+Output: "\"s\""
 ```
+
+---
 
 ## String05
 
-  s1 and s2 strings are given. return the result by adding a space (" ") between them.
+Ikki satr (`s1` va `s2`) berilgan. Ularni orasiga bo'sh joy (`" "`) qo'shib birlashtiring va natijani qaytaring.
 
-**Example 1:**
+**Misol 1:**
 
 ```Python
 Input: s1="python" s2="coder"
 Output: "python coder"
-
 ```
 
-**Example 2:**
+**Misol 2:**
 
 ```Python
 Input: s1="code" s2="school"
-Output: "it markaz"
-
+Output: "code school"
 ```
+
+---
 
 ## String06
 
-  s string is given. repeat it n times and return the resulting string.
+Berilgan satr `s` va butun son `n` kiritiladi. Satrni `n` marta takrorlang va natijani qaytaring.
 
-**Example 1:**
+**Misol 1:**
 
 ```Python
 Input: s="code" n=3
 Output: "codecodecode"
-
 ```
 
-**Example 2:**
+**Misol 2:**
 
 ```Python
 Input: s="uz" n=2
 Output: "uzuz"
-
 ```
+
+---
 
 ## String08
 
-  Given two strings, first_name and last_name, return a single string in the format "last, first".
+Ikki satr, `first_name` va `last_name` berilgan. Ulardan `last, first` formatida satrni qaytaring.
 
-**Example 1:**
+**Misol 1:**
 
 ```Python
-Input: fist='Otabek' last='Tursunov'
+Input: first='Otabek' last='Tursunov'
 Output: "Tursunov, Otabek"
-
 ```
+
+---
 
 ## String09
 
-  Given three integers, x1, x2, and x3, return the "[x1, x2, x3]" string.
+Uchta butun son `x1`, `x2`, va `x3` berilgan. Ularni `[x1, x2, x3]` formatida satrga aylantirib qaytaring.
 
-**Example 1:**
+**Misol 1:**
 
 ```Python
 Input: x1=1 x2=2 x3=3
 Output: "[1, 2, 3]"
-
 ```
+
+---
 
 ## String10
 
-  Given two integers x, y return the "(x+y)*2={ifoda natijasi}" string.
+Ikki butun son `x` va `y` berilgan. Ulardan quyidagi formatda natijani qaytaring: `(x+y)*2={ifoda natijasi}`.
 
-**Example 1:**
+**Misol 1:**
 
 ```Python
 Input: x=4 y=6
 Output: "(4+6)*2=20"
-
 ```
 
-# Warning
-- don't copy other solutions or any solution
-- don't remove comments
+---
+
+# Ogohlantirishlar
+- Boshqalarning echimlarini nusxa ko'chirmang yoki ko'chirishdan foydalanmang.
+- Izohlarni o'chirib yubormang.
+
+Endi ushbu masalalarni yechishni boshlashingiz mumkin. Har birini mustaqil yechib, natijani tekshirib ko'ring. Agar kerak bo'lsa, qo'shimcha savollar bilan murojaat qiling.
