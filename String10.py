@@ -1,10 +1,9 @@
-def main(x,y):
+def main(shahar):
     """
-    Given two integers x, y return the "(x+y)*2={answer}" string.
-    Args:
-        x: int
-        y: int
-    Returns:
-        str: return answer.
+    Shahar nomi berilgan. "Men <shahar>da yashayman" satrini qaytaring.
+    Argumentlar:
+        shahar(str): shahar
+    Qaytaradi:
+        str: natija satri
     """
-    return 
+    return

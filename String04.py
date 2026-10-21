@@ -1,10 +1,9 @@
-def main():
+def main(ism):
     """
-    Given the string "s". add a double quote on both sides, beginning and end.
-    Args:
-        None
-    Returns:
-        str: return answer.
+    Ism berilgan. Uni ikkala tomondan qo'shtirnoq bilan o'rab qaytaring.
+    Argumentlar:
+        ism(str): ism
+    Qaytaradi:
+        str: natija satri
     """
-    s = "s"
-    return 
+    return

@@ -1,10 +1,10 @@
-def main(s1,s2):
+def main(ism, familiya):
     """
-    s1 and s2 strings are given. return the result by adding a space (" ") between them.
-    Args:
-        s1: str
-        s2: str
-    Returns:
-        str: return answer.
+    Ism va familiya berilgan. Ularni orasiga bo'sh joy qo'yib birlashtiring va qaytaring.
+    Argumentlar:
+        ism(str): ism
+        familiya(str): familiya
+    Qaytaradi:
+        str: natija satri
     """
-    return 
+    return

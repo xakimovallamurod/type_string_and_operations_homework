@@ -1,9 +1,10 @@
-def main():
+def main(ism, familiya):
     """
-    Return a string whose length is zero.
-    Args:
-        None
-    Returns:
-        str: return answer.
+    Ism va familiya berilgan. Ulardan "familiya, ism" ko'rinishidagi satrni qaytaring.
+    Argumentlar:
+        ism(str): ism
+        familiya(str): familiya
+    Qaytaradi:
+        str: natija satri
     """
-    return 
+    return

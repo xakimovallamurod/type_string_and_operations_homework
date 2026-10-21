@@ -1,10 +1,10 @@
-def main(s,n):
+def main(s, n):
     """
-    s string is given. repeat it n times and return the resulting string.
-    Args:
-        s: str
-        n: int
-    Returns:
-        str: return answer.
+    Satr s va butun son n berilgan. Satrni n marta takrorlab qaytaring.
+    Argumentlar:
+        s(str): satr
+        n(int): takrorlar soni
+    Qaytaradi:
+        str: natija satri
     """
-    return 
+    return

@@ -1,11 +1,11 @@
-def main(x1,x2,x3):
+def main(x1, x2, x3):
     """
-    Given three integers, x1, x2, and x3, return the "[x1, x2, x3]" string.
-    Args:
-        x1: int
-        x2: int
-        x3: int
-    Returns:
-        str: return answer.
+    Allamurodning yoshi, bo'yi (sm) va vazni (kg) — uchta butun son berilgan. Ularni "[x1, x2, x3]" ko'rinishidagi satrga aylantirib qaytaring.
+    Argumentlar:
+        x1(int): yosh
+        x2(int): bo'y
+        x3(int): vazn
+    Qaytaradi:
+        str: natija satri
     """
-    return 
+    return

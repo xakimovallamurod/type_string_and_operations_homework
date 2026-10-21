@@ -1,9 +1,9 @@
 def main():
     """
-    "*" Return a string that consists of only this character and is five in length.
-    Args:
-        None
-    Returns:
-        str: return answer.
+    = belgisidan iborat va uzunligi 10 bo'lgan satrni * operatori yordamida qaytaring.
+    Argumentlar:
+        Yo'q
+    Qaytaradi:
+        str: natija satri
     """
-    return 
+    return

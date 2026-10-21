@@ -1,10 +1,9 @@
-def main(first,last):
+def main(yosh):
     """
-    Given two strings, first_name and last_name, return a single string in the format "last, first".
-    Args:
-        first: str
-        last: str
-    Returns:
-        str: return answer.
+    Allamurodning yoshi butun son ko'rinishida berilgan. str() yordamida "Yoshim: <yosh>" satrini qaytaring.
+    Argumentlar:
+        yosh(int): yosh
+    Qaytaradi:
+        str: natija satri
     """
-    return 
+    return
